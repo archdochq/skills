@@ -1,0 +1,11 @@
+{
+  "author": {
+    "name": "Ollie Read"
+  },
+  "description": "Document a project with ArchDoc: classify, backfill from real evidence, and keep a specification repository lint-clean.",
+  "homepage": "https://archdoc.dev",
+  "license": "AGPL-3.0-or-later",
+  "name": "archdoc",
+  "repository": "https://github.com/archdochq/archdoc",
+  "version": "0.6.0"
+}
